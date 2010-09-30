@@ -1138,7 +1138,7 @@ reference "sub:Class-Resolution"
 \family typewriter
 LiftRules.viewDispatch
 \family default
- is recommended because reflection incurs a signficant cost for each reqeust.
+ is recommended because reflection incurs a signficant cost for each request.
  When you use 
 \family typewriter
 LiftRules.viewDispatch
